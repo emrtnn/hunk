@@ -27,6 +27,7 @@
           buildInputs = with pkgs; [
             bun
             nodejs
+            git
           ];
         };
       }
